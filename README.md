@@ -18,6 +18,7 @@ pip install django-tristate  # It is available via PyPI
       'tri',
   ]
 
+
 ## Usage
 In github repository of django-tristate, there is a folder called `tristate_example`. It contains a Django project example called `tristate_example` and an app called `tria`. The `tria` app is a part of the `tristate_example` Django project. It provides specific functionalities, integrating the generic tri-state logic provided by the `tri` app/module.
 
@@ -34,3 +35,11 @@ With the Submit button, the state of the checkboxes is saved and with GET you ge
 ## Contact
 Ioannis Chrysochos
 ioannis.chrysochos@cytanet.com.cy
+
+## Example
+You can use the whole project as an example
+
+## Contact
+Ioannis Chrysochos
+ioannis.chrysochos@cytanet.com.cy
+
